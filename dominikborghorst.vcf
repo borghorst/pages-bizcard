@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Borghorst;Dominik;;;
+FN:Dominik Borghorst
+ORG:
+ADR;TYPE=WORK:
+TITLE:IT Consultant & Architect
+TEL;TYPE=CELL:+4915151558998
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:borghorst@borghorst.net
+URL;TYPE=Digital Business Card:https://bizcard.borghorst.net
+URL:https://www.borghorst.net
+URL;TYPE=Website:https://www.borghorst.net
+URL;TYPE=WhatsApp:https://wa.me/4915151558998
+URL;TYPE=LinkedIn:https://linkedin.com/in/borghorst
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100693531
+END:VCARD
